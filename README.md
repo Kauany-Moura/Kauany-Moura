@@ -32,8 +32,8 @@ Sou uma estudante de Ciência da Computação apaixonada por tecnologia e inova�
 </div>
 
 
+
 <img align="center" alt="" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
-<img width="16" />
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kauany-Moura/Kauany-Moura/output/github-contribution-grid-snake-dark.svg">
