@@ -8,7 +8,7 @@
 <img align="center" alt="" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" >
 </div>
 
- ---
+
  
 Sou uma estudante de Ciência da Computação apaixonada por tecnologia e inovação. Tenho facilidade em analisar problemas de forma lógica e transformar ideias em soluções funcionais e criativas. Busco sempre aprender e evoluir, explorando novas ferramentas e linguagens para desenvolver projetos que unam eficiência, design e propósito. Possuo foco em análises de dados, engenharia de software e design UI & UX!
 
