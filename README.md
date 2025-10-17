@@ -12,6 +12,11 @@
 Sou uma estudante de Ciência da Computação apaixonada por tecnologia e inovação. Tenho facilidade em analisar problemas de forma lógica e transformar ideias em soluções funcionais e criativas. Busco sempre aprender e evoluir, explorando novas ferramentas e linguagens para desenvolver projetos que unam eficiência, design e propósito. Possuo foco em análises de dados, engenharia de software e design UI & UX!
 <br>
 
+<h2 align="left">Connect with me!</h2>
+
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:kaukaurib@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/kauany-moura-127abb357)
+
 <h2 align="left">
   My Stack <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" height="25" alt="javascript logo"  />
   <img width="8" />
