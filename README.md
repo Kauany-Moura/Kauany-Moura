@@ -14,7 +14,7 @@ Sou uma estudante de Ciência da Computação apaixonada por tecnologia e inova�
 
 <h2 align="left">Connect with me!</h2>
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:kaukaurib@gmail.com)
+[![Email](https://img.shields.io/badge/Email-meuemail%40gmail.com-red?logo=gmail)](mailto:kaukaurib@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/kauany-moura-127abb357)
 
 <h2 align="left">
