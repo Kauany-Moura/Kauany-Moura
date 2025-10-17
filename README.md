@@ -5,8 +5,7 @@
 </div>
 
 <div align="center">
-<img align="center" alt="" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG41dWlpOGk1bXhnbjNycmVyODhkdGs1angwY2s1a2NiMXZ0djljbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fdOA43sHFE6Pu/giphy.gif"height="500" alt="javascript logo"  />
-  <img width="300" />
+<img align="center" alt="" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" >
 </div>
 
 Sou uma estudante de Ciência da Computação apaixonada por tecnologia e inovação. Tenho facilidade em analisar problemas de forma lógica e transformar ideias em soluções funcionais e criativas. Busco sempre aprender e evoluir, explorando novas ferramentas e linguagens para desenvolver projetos que unam eficiência, design e propósito. Possuo foco em análises de dados, engenharia de software e design UI & UX!
