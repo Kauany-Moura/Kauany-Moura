@@ -1,4 +1,9 @@
-# Seja Bem-Vindo! Aqui é a Kauany 🤗
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+  </a>
+</div>
+
 Sou uma estudante de Ciência da Computação apaixonada por tecnologia e inovação. Tenho facilidade em analisar problemas de forma lógica e transformar ideias em soluções funcionais e criativas. Busco sempre aprender e evoluir, explorando novas ferramentas e linguagens para desenvolver projetos que unam eficiência, design e propósito. Possuo foco em análises de dados, engenharia de software e design UI & UX!
 
 <h2 align="left">My Stack🔥</h2>
