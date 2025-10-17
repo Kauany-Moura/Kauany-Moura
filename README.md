@@ -16,6 +16,7 @@ Sou uma estudante de Ciência da Computação apaixonada por tecnologia e inova�
 
 [![Email](https://img.shields.io/badge/Email-kaukaurib%40gmail.com-red?logo=gmail)](mailto:kaukaurib@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kauany%20Moura-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauany-moura-127abb357)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kauany%20Moura-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauany-moura-127abb357)
 
 <h2 align="left">
   My Stack <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" height="25" alt="javascript logo"  />
