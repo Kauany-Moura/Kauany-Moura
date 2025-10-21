@@ -9,7 +9,8 @@
 </div>
 <br>
 
-Sou uma estudante de Ciência da Computação apaixonada por tecnologia e inovação. Tenho facilidade em analisar problemas de forma lógica e transformar ideias em soluções funcionais e criativas. Busco sempre aprender e evoluir, explorando novas ferramentas e linguagens para desenvolver projetos que unam eficiência, design e propósito. Possuo foco em análises de dados, engenharia de software e design UI & UX!
+Sou uma estudante de Ciência da Computação apaixonada por criar soluções que unem tecnologia, design e propósito. Gosto de transformar ideias em projetos funcionais e intuitivos. Tenho uma visão curiosa e criativa, sempre em busca de aprender novas ferramentas e linguagens.
+Acredito que a tecnologia tem poder para gerar impacto real e isso me motiva a desenvolver soluções que tornem o digital mais eficiente, acessível e humano.
 <br>
 
 <h2 align="left">Connect with me!</h2>
