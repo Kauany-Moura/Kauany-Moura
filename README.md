@@ -63,5 +63,5 @@ Estudante de Ciência da Computação com foco em desenvolvimento full stack e a
 </div>
 
 <div align="center">
-
+ ![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
 </div>
