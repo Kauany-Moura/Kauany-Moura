@@ -9,8 +9,7 @@
 </div>
 <br>
 
-Sou uma estudante de Ciência da Computação apaixonada por criar soluções que unem tecnologia, design e propósito. Gosto de transformar ideias em projetos funcionais e intuitivos. Tenho uma visão curiosa e criativa, sempre em busca de aprender novas ferramentas e linguagens.
-Acredito que a tecnologia tem poder para gerar impacto real e isso me motiva a desenvolver soluções que tornem o digital mais eficiente, acessível e humano.
+Estudante de Ciência da Computação com foco em desenvolvimento full stack e análise de dados. Apaixonada por tecnologia, design e inovação, busco criar soluções funcionais e intuitivas que unam propósito e eficiência. Tenho facilidade em aprender novas linguagens e frameworks, com interesse em áreas como automação, IoT e experiência do usuário.
 <br>
 
 <h2 align="left">Connect with me!</h2>
@@ -45,6 +44,14 @@ Acredito que a tecnologia tem poder para gerar impacto real e isso me motiva a d
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="50" alt="javascript logo"  />
   <img width="16" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="javascript logo"  />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" height="50" alt="javascript logo"  />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" height="50" alt="javascript logo"  />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" height="50" alt="javascript logo"  />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height="50" alt="javascript logo"  />
   <img width="16" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="50" alt="javascript logo"  />
   <img width="16" />
