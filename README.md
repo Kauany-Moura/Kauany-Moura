@@ -63,5 +63,5 @@ Estudante de Ciência da Computação com foco em desenvolvimento full stack e a
 </div>
 
 <div align="center">
- <img src="https://raw.githubusercontent.com/Kauany-Moura/Kauany-Moura/output/snake.svg" alt="Snake animation" />
+
 </div>
