@@ -62,6 +62,4 @@ Estudante de Ciência da Computação com foco em desenvolvimento full stack e a
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
 </div>
 
-<div align="center">
-  ![snake gif](https://github.com/Kauany-Moura/Kauany-Moura/blob/output/github-snake-dark.svg)
-</div>
+![snake gif](https://github.com/Kauany-Moura/Kauany-Moura/blob/output/github-snake-dark.svg)
