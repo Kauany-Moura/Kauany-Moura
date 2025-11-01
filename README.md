@@ -12,7 +12,7 @@
 Estudante de Ciência da Computação com foco em desenvolvimento full stack e análise de dados. Apaixonada por tecnologia, design e inovação, busco criar soluções funcionais e intuitivas que unam propósito e eficiência. Tenho facilidade em aprender novas linguagens e frameworks, com interesse em áreas como automação, IoT e experiência do usuário.
 <br>
 
-<h2 align="left">Connect with me!</h2>
+<h2 align="left">Connect with me!😄</h2>
 
 [![Email](https://img.shields.io/badge/Email-kaukaurib%40gmail.com-red?logo=gmail)](mailto:kaukaurib@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kauany%20Moura-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauany-moura-127abb357)
