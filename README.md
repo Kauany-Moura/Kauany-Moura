@@ -12,7 +12,7 @@
 Estudante de Ciência da Computação com foco em desenvolvimento full stack e análise de dados. Apaixonada por tecnologia, design e inovação, busco criar soluções funcionais e intuitivas que unam propósito e eficiência. Tenho facilidade em aprender novas linguagens e frameworks, com interesse em áreas como automação, IoT e experiência do usuário.
 <br>
 
-<h2 align="left">Connect with me!<img src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" height="25" alt="javascript logo"  />
+<h2 align="left">Connect with me! <img src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" height="25" alt="javascript logo"  />
   <img width="8" />
 </h2>
 
