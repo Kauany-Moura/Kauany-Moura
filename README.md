@@ -9,6 +9,10 @@
 </div>
 <br>
 
+<h2 align="left">
+  About Me!🫰
+</h2>
+
 Sou uma estudante de Ciência da Computação que transforma curiosidade em código e ideias em soluções reais. Gosto de unir tecnologia, design e análise de dados para criar experiências simples, inteligentes e acessíveis. Tenho facilidade em aprender novas ferramentas e me adaptar a diferentes desafios, explorando desde desenvolvimento full stack até UX, automação e IA. Busco crescer em projetos que valorizem inovação, impacto e aprendizado contínuo.
 <br>
 
@@ -79,7 +83,8 @@ Sou uma estudante de Ciência da Computação que transforma curiosidade em cód
   <img src="https://img.shields.io/badge/tinkercad-1477D1?style=for-the-badge&logo=tinkercad&logoColor=white"  />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </div>
-<br>
+
+---
 
 <h2 align="left">Connect with me! <img src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" height="25" alt="emoji sorridente"  />
   <img width="8" />
