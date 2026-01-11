@@ -51,29 +51,21 @@ Sou uma estudante de Ciência da Computação que transforma curiosidade em cód
 </h2>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" height="50" alt="react logo"  />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg" height="50" alt="reactnative logo"  />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" height="50" alt=".NET logo" />
   <img width="16" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" height="50" alt="angular logo" />
   <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" height="50" alt="reactnative logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="50" alt="postgresql logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" height="50" alt="firebase logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" height="50" alt="flutter logo"  />
-  <img width="16" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="50" alt="nodejs logo"  />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" height="50" alt="django logo"  />
   <img width="16" />
 </div>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" height="50" alt="angular logo" />
-  <img width="16" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="50" alt="figma logo"  />
   <img width="16" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo"  />
@@ -82,11 +74,6 @@ Sou uma estudante de Ciência da Computação que transforma curiosidade em cód
   <img width="16" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" height="50" alt="firebase logo"  />
   <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" height="50" alt="flutter logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="50" alt="nodejs logo"  />
-  <img width="16" />
-</div>
 <br>
 
 <div align="center">
