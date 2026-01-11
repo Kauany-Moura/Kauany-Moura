@@ -90,8 +90,9 @@ Sou estudante de Ciência da Computação, movida pela curiosidade e pela vontad
 </div>
 <br>
 
-> “Os homens já não têm tempo de conhecer coisa alguma. Compram tudo pronto nas lojas. Mas como não existem lojas de amigos, os homens já não têm amigos.” <br>
-> — Antoine de Saint-Exupéry
+> “Os homens já não têm tempo de conhecer coisa alguma. Compram tudo pronto nas lojas. <br>
+> Mas como não existem lojas de amigos, os homens já não têm amigos.” <br>
+> — Antoine de Saint-Exupéry 💔
   
 ---
 
