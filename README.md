@@ -12,7 +12,7 @@
 > "O que quer dizer 'cativar'?" - perguntou o Pequeno Príncipe. <br>
 > "É uma coisa muito esquecida", disse a raposa. "Significa criar laços. <br>
 > Se tu me cativas, nós teremos necessidade um do outro. <br>
-> Tu serás para mim único no mundo. E eu serei para ti única no mundo." — Antonie de Saint-Exupéry <br>
+> Tu serás para mim único no mundo. E eu serei para ti única no mundo."  — Antonie de Saint-Exupéry <br>
 
 ## 💖 About Me!
 
