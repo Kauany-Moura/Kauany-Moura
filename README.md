@@ -96,9 +96,7 @@ Sou estudante de Ciência da Computação, movida pela curiosidade e pela vontad
   
 ---
 
-<h2 align="left">Connect with me! <img src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" height="25" alt="emoji sorridente" />
-  <img width="8" />
-</h2>
+## 📬 Connect with me!
 
 [![Email](https://img.shields.io/badge/Email-kaukaurib%40gmail.com-red?logo=gmail)](mailto:kaukaurib@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kauany%20Moura-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauany-moura-127abb357)
