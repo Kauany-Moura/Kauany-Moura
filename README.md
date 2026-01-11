@@ -15,7 +15,7 @@ Sou uma estudante de Ciência da Computação que transforma curiosidade em cód
 ---
 
 <h2 align="left">
-  MY STACK 🔥
+  My Stack 🔥
 </h2>
 
 <h3 align="left">
@@ -33,7 +33,6 @@ Sou uma estudante de Ciência da Computação que transforma curiosidade em cód
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </div>
-<br>
 
 <h3 align="left">
   🚀 Frameworks & Library
@@ -47,7 +46,6 @@ Sou uma estudante de Ciência da Computação que transforma curiosidade em cód
   <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
 </div>
-<br>
 
 <h3 align="left">
  ⚡ Database
@@ -61,7 +59,6 @@ Sou uma estudante de Ciência da Computação que transforma curiosidade em cód
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
 </div>
-<br>
 
 <h3 align="left">
  ☁️ CloudOps
@@ -72,7 +69,6 @@ Sou uma estudante de Ciência da Computação que transforma curiosidade em cód
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
   <img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
 </div>
-<br>
 
 <h3 align="left">
   🖍️ Design
