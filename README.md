@@ -14,6 +14,7 @@
 </h2>
 
 🎓 Estudante de Ciência da Computação
+
 💡 Transformo curiosidade em código e ideias em soluções reais
 
 Gosto de unir tecnologia, design e análise de dados para criar experiências simples, inteligentes e acessíveis.
