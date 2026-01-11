@@ -92,7 +92,9 @@ Sou uma estudante de Ciência da Computação que transforma curiosidade em cód
 
 [![Email](https://img.shields.io/badge/Email-kaukaurib%40gmail.com-red?logo=gmail)](mailto:kaukaurib@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kauany%20Moura-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauany-moura-127abb357)
-
+<br>
+<br>
+ 
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kauany-Moura/Kauany-Moura/output/pacman-contribution-graph-dark.svg">
