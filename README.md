@@ -9,32 +9,21 @@
 </div>
 <br>
 
-<h2 align="left">
-  💖 About Me!
-</h2>
+## 💖 About Me!
 
-🎓 Estudante de Ciência da Computação
-
-💡 Transformo curiosidade em código e ideias em soluções reais
-
-Gosto de unir tecnologia, design e análise de dados para criar experiências simples, inteligentes e acessíveis.
-
-Tenho facilidade em aprender novas ferramentas e me adaptar a novos desafios, explorando desde desenvolvimento full stack até UX, automação e Inteligência Artificial.
-
-🚀 Busco crescer em projetos que valorizem inovação, impacto e aprendizado contínuo.
+Sou estudante de Ciência da Computação, movida pela curiosidade e pela vontade de transformar ideias em soluções reais através do código. Gosto de unir tecnologia, design e análise de dados para criar experiências simples, inteligentes e acessíveis.
+- 💡 Explorando áreas como desenvolvimento full stack, UX, automação e inteligência artificial.
+- 🏹 Tenho facilidade em aprender novas ferramentas e me adaptar a novos desafios.
+- 🚀 Busco crescer em projetos que valorizem inovação, impacto e aprendizado contínuo.
 <br>
 
 ---
 
-<h2 align="left">
-  My Stack 🔥
-</h2>
+## My Stack 🔥
 
-<h3 align="left">
-  💻 Programming Languages
-</h3>
+### 💻 Programming Languages
 
-<div align="left">
+<div>
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -46,11 +35,9 @@ Tenho facilidade em aprender novas ferramentas e me adaptar a novos desafios, ex
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </div>
 
-<h3 align="left">
-  🚀 Frameworks & Library
-</h3>
+### 🚀 Frameworks & Library
 
-<div align="left">
+<div>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
@@ -59,11 +46,9 @@ Tenho facilidade em aprender novas ferramentas e me adaptar a novos desafios, ex
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
 </div>
 
-<h3 align="left">
- ⚡ Database
-</h3>
+### ⚡ Database
 
-<div align="left">
+<div>
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -72,21 +57,18 @@ Tenho facilidade em aprender novas ferramentas e me adaptar a novos desafios, ex
   <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
 </div>
 
-<h3 align="left">
- ☁️ CloudOps
-</h3>
 
-<div align="left">
+### ☁️ CloudOps
+
+<div>
   <img src="https://img.shields.io/badge/Amazon_Web_Services-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
   <img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
 </div>
 
-<h3 align="left">
-  🖍️ Design
-</h3>
+ ### 🖍️ Design
 
-<div align="left">
+<div>
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
   <img src="https://img.shields.io/badge/tinkercad-1477D1?style=for-the-badge&logo=tinkercad&logoColor=white"  />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
