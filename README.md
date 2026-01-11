@@ -15,7 +15,7 @@ Sou uma estudante de Ciência da Computação que transforma curiosidade em cód
 ---
 
 <h2 align="left">
-  My Stack
+  MY STACK 🔥
 </h2>
 
 <h3 align="left">
