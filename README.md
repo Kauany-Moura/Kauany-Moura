@@ -13,7 +13,13 @@
   💖 About Me!
 </h2>
 
-Sou uma estudante de Ciência da Computação que transforma curiosidade em código e ideias em soluções reais. Gosto de unir tecnologia, design e análise de dados para criar experiências simples, inteligentes e acessíveis. Tenho facilidade em aprender novas ferramentas e me adaptar a diferentes desafios, explorando desde desenvolvimento full stack até UX, automação e IA. Busco crescer em projetos que valorizem inovação, impacto e aprendizado contínuo.
+🎓 Estudante de Ciência da Computação
+💡 Transformo curiosidade em código e ideias em soluções reais
+
+Gosto de unir tecnologia, design e análise de dados para criar experiências simples, inteligentes e acessíveis.
+Tenho facilidade em aprender novas ferramentas e me adaptar a novos desafios, explorando desde desenvolvimento full stack até UX, automação e Inteligência Artificial.
+
+🚀 Busco crescer em projetos que valorizem inovação, impacto e aprendizado contínuo.
 <br>
 
 ---
