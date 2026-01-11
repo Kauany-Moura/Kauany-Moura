@@ -79,6 +79,7 @@ Sou estudante de Ciência da Computação, movida pela curiosidade e pela vontad
 
 <div>
   <img src="https://kapowaz.github.io/square-flags/flags/us.svg" height="85" alt="english" />
+  <br>
    <img src="https://kapowaz.github.io/square-flags/flags/es.svg" height="85" alt="spanish" />
 </div>
   
