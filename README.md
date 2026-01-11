@@ -24,7 +24,7 @@ Sou uma estudante de Ciência da Computação que transforma curiosidade em cód
 </h2>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="50" alt="python logo"  />
+  <img src="https://api.devicons.dev.br/icon?icons=Python&size=50&theme=dark&perline=50" height="50" alt="python logo"  />
   <img width="16" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="50" alt="javascript logo"  />
   <img width="16" />
