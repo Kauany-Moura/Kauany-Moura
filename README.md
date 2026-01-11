@@ -15,7 +15,6 @@ Sou estudante de Ciência da Computação, movida pela curiosidade e pela vontad
 - 💡 Explorando áreas como desenvolvimento full stack, UX, automação e inteligência artificial
 - 🏹 Tenho facilidade em aprender novas ferramentas e me adaptar a novos desafios
 - 🚀 Busco crescer em projetos que valorizem inovação, impacto e aprendizado contínuo
-<br>
 
 ---
 
