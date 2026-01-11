@@ -45,8 +45,6 @@ Sou uma estudante de Ciência da Computação que transforma curiosidade em cód
   <img width="16" />
 </div>
 
----
-
 <h2 align="left">
   Frameworks and Libraries <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" height="25" alt="emoji foguinho"  />
   <img width="8" />
@@ -66,8 +64,6 @@ Sou uma estudante de Ciência da Computação que transforma curiosidade em cód
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" height="50" alt="django logo"  />
   <img width="16" />
 </div>
-
----
 
 <h2 align="left">
   Database <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" height="25" alt="emoji foguinho"  />
@@ -89,8 +85,6 @@ Sou uma estudante de Ciência da Computação que transforma curiosidade em cód
   <img width="16" />
 </div>
 
----
-
 <h2 align="left">
   CloudOps <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" height="25" alt="emoji foguinho"  />
   <img width="8" />
@@ -104,8 +98,6 @@ Sou uma estudante de Ciência da Computação que transforma curiosidade em cód
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" height="50" alt="azure logo"  />
   <img width="16" />
 </div>
-
----
 
 <h2 align="left">
   Tools and Versioning <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" height="25" alt="emoji foguinho"  />
