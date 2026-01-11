@@ -75,7 +75,7 @@ Sou estudante de Ciência da Computação, movida pela curiosidade e pela vontad
 
 ---
 
-## My Languages
+## My Languages 🌎
 
 <div>
   <img src="https://kapowaz.github.io/square-flags/flags/br.svg" height="85" alt="portuguese" /> &nbsp;&nbsp;&nbsp;
