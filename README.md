@@ -20,8 +20,7 @@ Sou uma estudante de Ciência da Computação que transforma curiosidade em cód
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kauany%20Moura-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauany-moura-127abb357)
 
 <h2 align="left">
-  Programming Languages <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" height="25" alt="emoji foguinho"  />
-  <img width="8" />
+  Programming Languages 💻
 </h2>
 
 <div align="center">
@@ -44,10 +43,10 @@ Sou uma estudante de Ciência da Computação que transforma curiosidade em cód
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="50" alt="php logo"  />
   <img width="16" />
 </div>
+<br>
 
 <h2 align="left">
-  Frameworks and Libraries <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" height="25" alt="emoji foguinho"  />
-  <img width="8" />
+  Frameworks and Libraries 📚
 </h2>
 
 <div align="center">
@@ -64,10 +63,10 @@ Sou uma estudante de Ciência da Computação que transforma curiosidade em cód
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" height="50" alt="django logo"  />
   <img width="16" />
 </div>
+<br>
 
 <h2 align="left">
-  Database <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" height="25" alt="emoji foguinho"  />
-  <img width="8" />
+  Database 🗃️
 </h2>
 
 <div align="center">
@@ -84,6 +83,7 @@ Sou uma estudante de Ciência da Computação que transforma curiosidade em cód
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" height="50" alt="firebase logo"  />
   <img width="16" />
 </div>
+<br>
 
 <h2 align="left">
   CloudOps ☁️
@@ -97,10 +97,10 @@ Sou uma estudante de Ciência da Computação que transforma curiosidade em cód
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" height="50" alt="azure logo"  />
   <img width="16" />
 </div>
+<br>
 
 <h2 align="left">
-  Tools and Versioning <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" height="25" alt="emoji foguinho"  />
-  <img width="8" />
+  Tools and Versioning ⚙️
 </h2>
 
 <div align="center">
