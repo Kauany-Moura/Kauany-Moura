@@ -88,6 +88,9 @@ Sou estudante de Ciência da Computação, movida pela curiosidade e pela vontad
   <img src="https://kapowaz.github.io/square-flags/flags/us.svg" height="85" alt="english" /> &nbsp;&nbsp;&nbsp;
   <img src="https://kapowaz.github.io/square-flags/flags/es.svg" height="85" alt="spanish" />
 </div>
+
+> “Os homens já não têm tempo de conhecer coisa alguma. Compram tudo pronto nas lojas. Mas como não existem lojas de amigos, os homens já não têm amigos.” <br>
+> — Antoine de Saint-Exupéry
   
 ---
 
