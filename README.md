@@ -20,7 +20,7 @@ Sou uma estudante de Ciência da Computação que transforma curiosidade em cód
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kauany%20Moura-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauany-moura-127abb357)
 
 <h2 align="left">
-  Programming Languages 💻
+  💻 Programming Languages
 </h2>
 
 <div align="center">
@@ -37,7 +37,7 @@ Sou uma estudante de Ciência da Computação que transforma curiosidade em cód
 <br>
 
 <h2 align="left">
-  Frameworks & Library 📚
+  🚀 Frameworks & Library
 </h2>
 
 <div align="center">
@@ -51,7 +51,7 @@ Sou uma estudante de Ciência da Computação que transforma curiosidade em cód
 <br>
 
 <h2 align="left">
-  Database 🗃️
+ ⚡ Database
 </h2>
 
 <div align="center">
@@ -65,7 +65,7 @@ Sou uma estudante de Ciência da Computação que transforma curiosidade em cód
 <br>
 
 <h2 align="left">
-  CloudOps ☁️
+ ☁️ CloudOps
 </h2>
 
 <div align="center">
@@ -76,7 +76,7 @@ Sou uma estudante de Ciência da Computação que transforma curiosidade em cód
 <br>
 
 <h2 align="left">
-   Design 🖍️
+  🖍️ Design
 </h2>
 
 <div align="center">
