@@ -8,7 +8,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" >
 </div>
 
-> "O que quer dizer 'cativar'?" - perguntou o Pequeno Príncipe.
+> "O que quer dizer 'cativar'?" - perguntou o Pequeno Príncipe. <br>
 > "É uma coisa muito esquecida", disse a raposa. "Significa criar laços.
 > Se tu me cativas, nós teremos necessidade um do outro.
 > Tu serás para mim único no mundo. E eu serei para ti única no mundo."
