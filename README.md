@@ -19,11 +19,11 @@ Sou uma estudante de Ciência da Computação que transforma curiosidade em cód
 [![Email](https://img.shields.io/badge/Email-kaukaurib%40gmail.com-red?logo=gmail)](mailto:kaukaurib@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kauany%20Moura-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauany-moura-127abb357)
 
-<h2 align="left">
-  💻 Programming Languages
-</h2>
+<h3 align="left">
+  - Programming Languages
+</h3>
 
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -36,11 +36,11 @@ Sou uma estudante de Ciência da Computação que transforma curiosidade em cód
 </div>
 <br>
 
-<h2 align="left">
+<h3 align="left">
   🚀 Frameworks & Library
-</h2>
+</h3>
 
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
@@ -50,11 +50,11 @@ Sou uma estudante de Ciência da Computação que transforma curiosidade em cód
 </div>
 <br>
 
-<h2 align="left">
+<h3 align="left">
  ⚡ Database
-</h2>
+</h3>
 
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -64,22 +64,22 @@ Sou uma estudante de Ciência da Computação que transforma curiosidade em cód
 </div>
 <br>
 
-<h2 align="left">
+<h3 align="left">
  ☁️ CloudOps
-</h2>
+</h3>
 
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/Amazon_Web_Services-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
   <img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
 </div>
 <br>
 
-<h2 align="left">
+<h3 align="left">
   🖍️ Design
-</h2>
+</h3>
 
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
   <img src="https://img.shields.io/badge/tinkercad-1477D1?style=for-the-badge&logo=tinkercad&logoColor=white"  />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
