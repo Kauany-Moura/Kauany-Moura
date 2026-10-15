@@ -5,26 +5,24 @@
 </div>
 
 <br>
-<table align="center" style="border: none; background: transparent;"> 
-  <tr> 
-    <td width="45%" valign="middle" style="border: none; background: transparent;">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWFybDludTQ0bG9qemY5NG41bXpsc2FqeGV0OGRnaXNrZHlhNzl5ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pXFkUV9BiDkQIfKboj/giphy.gif"
+     align="right"
+     width="55%"
+     alt="Pixel art de um retrovisor ao pôr do sol">
 
-<blockquote> 
-  "Para ser grande, sê inteiro: nada <br> 
-  Teu exagera ou exclui <br> 
-  ê todo em cada coisa. Põe quanto és <br> 
-  No mínimo que fazes. <br> 
-  Assim em cada lago a lua toda <br> 
-  Brilha, porque alta vive." <br>
-  <br> — Fernando Pessoa 🦋 
+<blockquote>
+  <p>
+    "Para ser grande, sê inteiro: nada<br>
+    Teu exagera ou exclui<br>
+    é todo em cada coisa. Põe quanto és<br>
+    No mínimo que fazes.<br>
+    Assim em cada lago a lua toda<br>
+    Brilha, porque alta vive."
+  </p>
+  <p>— Fernando Pessoa 🦋</p>
 </blockquote>
 
-</td> 
-<td width="100%" valign="middle" align="right" style="border: none; background: transparent;"> 
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWFybDludTQ0bG9qemY5NG41bXpsc2FqeGV0OGRnaXNrZHlhNzl5ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pXFkUV9BiDkQIfKboj/giphy.gif" alt="Pixel art"> 
-</td> 
-</tr> 
-</table>
+<div style="clear: both;"></div>
 
 ## 💖 About Me!
 
