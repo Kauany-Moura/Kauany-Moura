@@ -27,8 +27,8 @@
 
 
 Estudante de Ciência da Computação, gosto de explorar a interseção entre design, IA e análise de dados para criação dos meus projetos. 
-- 💻 Full stack, IA e automação
-- 🧠 Aprendendo continuamente e desenvolvendo projetos práticos
+- 💻 Computer Science, Analytics e Full-Stack
+- ⚡ Criatividade e Inovação
 - 🚀 Sempre explorando o desconhecido
 
 <br>
