@@ -24,6 +24,10 @@
 
 <div style="clear: both;"></div>
 
+<br>
+<br>
+<br>
+<br>
 ## 💖 About Me!
 
 Sou estudante de Ciência da Computação, movida pela curiosidade e pela vontade de transformar ideias em soluções reais através do código. Gosto de unir tecnologia, design e análise de dados para criar experiências simples, inteligentes e acessíveis.
