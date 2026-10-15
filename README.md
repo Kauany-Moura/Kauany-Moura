@@ -5,9 +5,9 @@
 </div>
 
 <br>
-<table> 
+<table align="center" style="border: none; background: transparent;"> 
   <tr> 
-    <td width="45%" valign="middle">
+    <td width="45%" valign="middle" style="border: none; background: transparent;">
 
 <blockquote> 
   "Para ser grande, sê inteiro: nada <br> 
@@ -20,7 +20,7 @@
 </blockquote>
 
 </td> 
-<td width="100%" valign="middle" align="right"> 
+<td width="100%" valign="middle" align="right" style="border: none; background: transparent;"> 
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWFybDludTQ0bG9qemY5NG41bXpsc2FqeGV0OGRnaXNrZHlhNzl5ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pXFkUV9BiDkQIfKboj/giphy.gif" alt="Pixel art"> 
 </td> 
 </tr> 
