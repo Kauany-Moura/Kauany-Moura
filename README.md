@@ -26,8 +26,8 @@
 <br>
 
 
-Sou estudante de Ciência da Computação, interessada em transformar ideias em soluções tecnológicas por meio do código. Gosto de explorar a interseção entre design, IA e análise de dados para criar aplicações úteis e intuitivas. 
-- 💻 Explorando desenvolvimento full stack, IA e automação
+Estudante de Ciência da Computação, gosto de explorar a interseção entre design, IA e análise de dados para criar aplicações úteis e intuitivas. 
+- 💻 Full stack, IA e automação
 - 🧠 Aprendendo continuamente e desenvolvendo projetos práticos
 - 🚀 Buscando soluções que unam inovação, funcionalidade e impacto real
 
