@@ -8,7 +8,7 @@
 
 <table>
   <tr>
-    <td width="60%" valign="middle">
+    <td width="100%" valign="middle">
 
 > "Para ser grande, sê inteiro: nada  
 > Teu exagera ou exclui  
