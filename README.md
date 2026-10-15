@@ -7,7 +7,7 @@
 <br>
 <table> 
   <tr> 
-    <td width="55%" valign="middle">
+    <td width="100%" valign="middle">
 
 <blockquote> 
   "Para ser grande, sê inteiro: nada <br> 
@@ -16,7 +16,7 @@
   No mínimo que fazes. <br> 
   Assim em cada lago a lua toda <br> 
   Brilha, porque alta vive." <br>
-  — Fernando Pessoa 🦋 
+  <br> — Fernando Pessoa 🦋 
 </blockquote>
 
 </td> 
