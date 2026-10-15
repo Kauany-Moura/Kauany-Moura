@@ -10,7 +10,8 @@
      align="right"
      width="65%"
      alt="Pixel art de um retrovisor ao pôr do sol">
-
+     
+## 💖 About Me!
 <blockquote>
   <p>
     "Para ser grande, sê inteiro: nada<br>
@@ -26,7 +27,6 @@
 <div style="clear: both;"></div>
 <br>
 
-## 💖 About Me!
 
 Sou estudante de Ciência da Computação, movida pela curiosidade e pela vontade de transformar ideias em soluções reais através do código. Gosto de unir tecnologia, design e análise de dados para criar experiências simples, inteligentes e acessíveis.
 - 💡 Explorando áreas como desenvolvimento full stack, UX, automação e inteligência artificial
