@@ -11,8 +11,6 @@
      width="65%"
      alt="Pixel art de um retrovisor ao pôr do sol">
 
-<br>
-<br>
 <blockquote>
   <p>
     "Para ser grande, sê inteiro: nada<br>
@@ -26,10 +24,6 @@
 </blockquote>
 
 <div style="clear: both;"></div>
-
-<br>
-<br>
-<br>
 
 ## 💖 About Me!
 
