@@ -24,14 +24,13 @@
 
 <div style="clear: both;"></div>
 <br>
-
+<br>
 
 Estudante de Ciência da Computação, gosto de explorar a interseção entre design, IA e análise de dados para criação dos meus projetos. 
 - 💻 Computer Science, Analytics e Full-Stack
 - ⚡ Criatividade e Inovação
 - 🚀 Sempre explorando o desconhecido
 
-<br>
 <br>
 
 ## 🔥 My Stack 🔥
