@@ -7,7 +7,7 @@
 <br>
 <table> 
   <tr> 
-    <td width="50%" valign="middle">
+    <td width="20%" valign="middle">
 
 <blockquote> 
   "Para ser grande, sê inteiro: nada <br> 
