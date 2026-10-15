@@ -8,7 +8,7 @@
 <br>
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDN2czBtMHRqcWF4aTVsZmthZ3NrOGhkazVvbmZxZ2d5YTd2enk0eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CQl0tM5gYyqQg/giphy.gif"
      align="right"
-     width="65%"
+     width="60%"
      alt="Pixel art de um retrovisor ao pôr do sol">
 
 <blockquote>
@@ -24,6 +24,7 @@
 </blockquote>
 
 <div style="clear: both;"></div>
+<br>
 
 ## 💖 About Me!
 
