@@ -18,11 +18,7 @@
 > Brilha, porque alta vive."
 >
 > — Fernando Pessoa 🦋
-
-    </td>
-    <td width="40%" align="center">
-      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWFybDludTQ0bG9qemY5NG41bXpsc2FqeGV0OGRnaXNrZHlhNzl5ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pXFkUV9BiDkQIfKboj/giphy.gif">
-    </td>
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWFybDludTQ0bG9qemY5NG41bXpsc2FqeGV0OGRnaXNrZHlhNzl5ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pXFkUV9BiDkQIfKboj/giphy.gif">
   </tr>
 </table>
 
