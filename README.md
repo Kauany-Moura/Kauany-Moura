@@ -10,7 +10,7 @@
 <br>
 
 > "Para ser grande, sê inteiro: nada <br>
->  Teu exagera ou exclui> <br>
+>  Teu exagera ou exclui <br>
 >  Sê todo em cada coisa. Põe quanto és <br>
 >  No mínimo que fazes. <br>
 >  Assim em cada lago a lua toda <br>
