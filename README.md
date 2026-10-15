@@ -5,11 +5,26 @@
 </div>
 
 <br>
-<table> <tr> <td width="55%" valign="middle">
+<table> 
+  <tr> 
+    <td width="55%" valign="middle">
 
-<blockquote> "Para ser grande, sê inteiro: nada<br> Teu exagera ou exclui<br> Sê todo em cada coisa. Põe quanto és<br> No mínimo que fazes.<br> Assim em cada lago a lua toda<br> Brilha, porque alta vive." <br><br> — Fernando Pessoa 🦋 </blockquote>
+<blockquote> 
+  "Para ser grande, sê inteiro: nada <br> 
+  Teu exagera ou exclui <br> 
+  ê todo em cada coisa. Põe quanto és <br> 
+  No mínimo que fazes. <br> 
+  Assim em cada lago a lua toda <br> 
+  Brilha, porque alta vive." <br>
+  <br> — Fernando Pessoa 🦋 
+</blockquote>
 
-</td> <td width="45%" valign="middle" align="right"> <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWFybDludTQ0bG9qemY5NG41bXpsc2FqeGV0OGRnaXNrZHlhNzl5ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pXFkUV9BiDkQIfKboj/giphy.gif" width="400" alt="Pixel art"> </td> </tr> </table>
+</td> 
+<td width="100%" valign="middle" align="right"> 
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWFybDludTQ0bG9qemY5NG41bXpsc2FqeGV0OGRnaXNrZHlhNzl5ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pXFkUV9BiDkQIfKboj/giphy.gif" alt="Pixel art"> 
+</td> 
+</tr> 
+</table>
 
 ## 💖 About Me!
 
