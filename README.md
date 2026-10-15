@@ -22,7 +22,7 @@
     — Fernando Pessoa 🦋
   </blockquote>
 
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWFybDludTQ0bG9qemY5NG41bXpsc2FqeGV0OGRnaXNrZHlhNzl5ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pXFkUV9BiDkQIfKboj/giphy.gif" alt="Imagem de perfil">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWFybDludTQ0bG9qemY5NG41bXpsc2FqeGV0OGRnaXNrZHlhNzl5ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pXFkUV9BiDkQIfKboj/giphy.gif" height="85" alt="Imagem de perfil">
 </div>
 
 ## 💖 About Me!
