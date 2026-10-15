@@ -12,6 +12,8 @@
      alt="Pixel art de um retrovisor ao pôr do sol">
 
 <br>
+<br>
+<br>
 <blockquote>
   <p>
     "Para ser grande, sê inteiro: nada<br>
