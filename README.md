@@ -26,13 +26,14 @@
 <div style="clear: both;"></div>
 <br>
 
-<h1> 💖 About Me! </h1>
+## 💖 About Me!
+
 Sou estudante de Ciência da Computação, movida pela curiosidade e pela vontade de transformar ideias em soluções reais através do código. Gosto de unir tecnologia, design e análise de dados para criar experiências simples, inteligentes e acessíveis.
 - 💡 Explorando áreas como desenvolvimento full stack, UX, automação e inteligência artificial
 - 🏹 Tenho facilidade em aprender novas ferramentas e me adaptar a novos desafios
 - 🚀 Busco crescer em projetos que valorizem inovação, impacto e aprendizado contínuo
 
----
+
 
 ## 🔥 My Stack 🔥
 
