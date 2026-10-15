@@ -9,11 +9,13 @@
 </div>
 <br>
 
-> "O que quer dizer 'cativar'?" - perguntou o Pequeno Príncipe. <br>
-> "É uma coisa muito esquecida", disse a raposa. "Significa criar laços. <br>
-> Se tu me cativas, nós teremos necessidade um do outro. <br>
-> Tu serás para mim único no mundo. E eu serei para ti única no mundo." <br>
->  — Antonie de Saint-Exupéry 🦊✨
+> "Para ser grande, sê inteiro: nada <br>
+>  Teu exagera ou exclui> <br>
+>  Sê todo em cada coisa. Põe quanto és <br>
+>  No mínimo que fazes. <br>
+>  Assim em cada lago a lua toda <br>
+>  Brilha, porque alta vive." <br>
+>  — Fernando Pessoa 🦊✨
 
 ## 💖 About Me!
 
