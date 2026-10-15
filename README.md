@@ -7,7 +7,7 @@
 <br>
 
 ## 💖 About Me!
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGF4eXp0d3JzbHo4cHRycmlsbG9qNXFwYXg5dWdvbGFmam04Y3Y4YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MHboUUIoxzOKs/giphy.gif"
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2RsenV4Y3NpMDE2ZmVwb2htNGJ2N2pnaDk5Mmo3Y2VuczJsbjRhbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pXFkUV9BiDkQIfKboj/giphy.gif"
      align="right"
      width="65%"
      alt="Pixel art de um retrovisor ao pôr do sol">
