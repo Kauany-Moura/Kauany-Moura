@@ -5,10 +5,9 @@
 </div>
 
 <br>
-<br>
 
 ## 💖 About Me!
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDN2czBtMHRqcWF4aTVsZmthZ3NrOGhkazVvbmZxZ2d5YTd2enk0eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CQl0tM5gYyqQg/giphy.gif"
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGF4eXp0d3JzbHo4cHRycmlsbG9qNXFwYXg5dWdvbGFmam04Y3Y4YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MHboUUIoxzOKs/giphy.gif"
      align="right"
      width="65%"
      alt="Pixel art de um retrovisor ao pôr do sol">
