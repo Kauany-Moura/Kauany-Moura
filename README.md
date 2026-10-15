@@ -14,6 +14,9 @@
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
 <blockquote>
   <p>
     "Para ser grande, sê inteiro: nada<br>
@@ -28,8 +31,6 @@
 
 <div style="clear: both;"></div>
 
-<br>
-<br>
 <br>
 <br>
 <br>
