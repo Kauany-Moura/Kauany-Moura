@@ -8,14 +8,9 @@
 <br>
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmhoMGlpZmpyeW5qaXEyZDdqdjJnbnp0NDdubmI5NHFiM2tiZHdnciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KxbHmvL3MGcctzlfdX/giphy.gif"
      align="right"
-     width="60%"
+     width="65%"
      alt="Pixel art de um retrovisor ao pôr do sol">
 
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
 <blockquote>
   <p>
