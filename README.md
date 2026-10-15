@@ -6,7 +6,7 @@
 
 <br>
 <br>
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmhoMGlpZmpyeW5qaXEyZDdqdjJnbnp0NDdubmI5NHFiM2tiZHdnciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KxbHmvL3MGcctzlfdX/giphy.gif"
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDN2czBtMHRqcWF4aTVsZmthZ3NrOGhkazVvbmZxZ2d5YTd2enk0eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CQl0tM5gYyqQg/giphy.gif"
      align="right"
      width="65%"
      alt="Pixel art de um retrovisor ao pôr do sol">
