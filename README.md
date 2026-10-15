@@ -26,10 +26,10 @@
 <br>
 
 
-Sou estudante de Ciência da Computação, movida pela curiosidade e pela vontade de transformar ideias em soluções reais através do código. Gosto de unir tecnologia, design e análise de dados para criar experiências simples, inteligentes e acessíveis.
-- 💡 Explorando áreas como desenvolvimento full stack, UX, automação e inteligência artificial
-- 🏹 Tenho facilidade em aprender novas ferramentas e me adaptar a novos desafios
-- 🚀 Busco crescer em projetos que valorizem inovação, impacto e aprendizado contínuo
+Sou estudante de Ciência da Computação, interessada em transformar ideias em soluções tecnológicas por meio do código. Gosto de explorar a interseção entre design, inteligência artificial e análise de dados para criar aplicações úteis e intuitivas.
+- 💻 Explorando desenvolvimento full stack, IA e automação
+- 🧠 Aprendendo continuamente e desenvolvendo projetos práticos
+- 🚀 Buscando soluções que unam inovação, funcionalidade e impacto real
 
 <br>
 <br>
