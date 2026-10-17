@@ -88,7 +88,7 @@ Estudante de Ciência da Computação, gosto de explorar a interseção entre de
 
 > “Os homens já não têm tempo de conhecer coisa alguma. Compram tudo pronto nas lojas. <br>
 > Mas como não existem lojas de amigos, os homens já não têm amigos.” 💔 <br>
-> — Antoine de Saint-Exupéry
+> <br> — Antoine de Saint-Exupéry
   
 ---
 
